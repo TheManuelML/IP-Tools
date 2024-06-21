@@ -10,3 +10,7 @@ A sort of tools that can help you when working with IPs. This script can run on 
 - [1] Get information about the IP address. Network, broadcast and the router adress.
 - [2] Ping the IP and see the output.
 - [3] Do a reverse DNS lookup to see the domain name.
+
+## Working on...
+- IP Geolocalization.
+- DNS Lookup. To see the IP of a domain.
