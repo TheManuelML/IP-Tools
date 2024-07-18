@@ -3,7 +3,7 @@ A sort of tools that can help you when working with IPs. This script can run on 
 
 ## Run
 ```
->>> python3 -m pip install termcolor
+>> python3 -m pip install termcolor
 >> python3 ipTool.py
 ```
 
